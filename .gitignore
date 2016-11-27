@@ -1,0 +1,13 @@
+*.iml
+.idea/
+.resources/
+*.ipr
+*.iws
+**/.DS_Store
+node_modules
+build
+.git
+.git/
+.vscode/
+stats.json
+yarn.lock
