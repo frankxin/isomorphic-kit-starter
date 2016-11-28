@@ -1,3 +1,4 @@
+'use strict';
 const React = require('react');
 
 class Layout extends React.Component {
@@ -5,7 +6,8 @@ class Layout extends React.Component {
     return (
       <html>
         <head>
-          <title></title>
+          <title>xxx</title>
+          <script src="/components/rem/index.js"></script>
           <link rel="stylesheet" href="/css/main.css" />
         </head>
         <body>
